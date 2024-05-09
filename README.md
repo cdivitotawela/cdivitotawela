@@ -9,3 +9,4 @@ Hello there. I work in DevSecOps space and love automate everything.
 ## Repositories
 - [github-workflow-examples](https://github.com/cdivitotawela/github-workflow-examples) - Useful examples of GitHub action workflows
 - [kubernetes-playground](https://github.com/cdivitotawela/kubernetes-playground) - Setup Kubernetes cluster in VirtualBox environment. Does not support Mac M1 architecture as VirtualBox has no support.
+- [terraform-azure-github-oidc](https://github.com/cdivitotawela/terraform-azure-github-oidc) - Example respository to setup the GitHub Azure OIDC and provision Azure resources using Terraform
