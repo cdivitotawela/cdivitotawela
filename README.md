@@ -4,7 +4,7 @@
 
 ## Automate Everything
 
-Hello there. I work in DevSecOps space and love automate everything. 
+Hello there. I work in DevSecOps space and love to automate everything. 
 
 ## Repositories
 - [github-workflow-examples](https://github.com/cdivitotawela/github-workflow-examples) - Useful examples of GitHub action workflows
